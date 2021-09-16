@@ -22,14 +22,24 @@ ul {
     height: 15%;
 }
 .heroImg {
-    height: 50px;
+    height: 600px;
     padding: 25px;
-    align-items: center top;
+    text-align: center;
+}
+img {
+    text-align: center;
 }
 .content {
-    width: 200px;
-    height: 200px;
+    width: 500px;
     margin: 0 auto;
-    
 }
-
+footer {
+    background-color: #F9BEB8;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+li {
+    padding-inline: 10%;
+}
